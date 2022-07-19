@@ -26,17 +26,17 @@
 
 <!-- ![logo_1647279498555](https://user-images.githubusercontent.com/50690543/179857513-a3f66742-6c82-45e1-aa6c-6d5815836607.svg) -->
 
-  <h4>Back-end</h4>
+  <h4>Back-end:</h4>
   
   <img style="align:center" alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img style="align:center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
   <img style="align:center" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-  <h4>Front-end</h4>
+  <h4>Front-end:</h4>
   <img style="align:center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img style="align:center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
-  <h4>Banco de dados</h4>
+  <h4>Banco de dados:</h4>
   <img style="align:center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
